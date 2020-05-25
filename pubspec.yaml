@@ -1,5 +1,5 @@
 name: MyHealth
-description: An example app to test a design.
+description: A proof of concept app.
 version: 1.0.0+1
 
 environment:
@@ -10,10 +10,6 @@ dependencies:
     sdk: flutter
   line_icons: ^0.2.0
   cupertino_icons: ^0.1.2
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
 
 flutter:
   uses-material-design: true
