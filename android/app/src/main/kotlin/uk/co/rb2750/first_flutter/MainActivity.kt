@@ -1,4 +1,4 @@
-package uk.co.rb2750.first_flutter
+package uk.co.rb2750.my_health
 
 import android.os.Bundle
 
